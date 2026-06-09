@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-TestKafkaLibrary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f909e6fb-d8a8-449a-80b9-5408f9e3e4ce</testCaseGuid>
+</TestCaseEntity>
